@@ -1,0 +1,12 @@
+C:\Users\Sea\source\repos\1007FormB\1007FormB\bin\Debug\1007FormB.dll
+C:\Users\Sea\source\repos\1007FormB\1007FormB\bin\Debug\1007FormB.pdb
+C:\Users\Sea\source\repos\1007FormB\1007FormB\bin\Debug\SimioAPI.dll
+C:\Users\Sea\source\repos\1007FormB\1007FormB\bin\Debug\SimioAPI.Extensions.dll
+C:\Users\Sea\source\repos\1007FormB\1007FormB\bin\Debug\SimioAPI.Graphics.dll
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.csprojAssemblyReference.cache
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\_1007FormB.FormB.resources
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.csproj.GenerateResource.cache
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.csproj.CoreCompileInputs.cache
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.csproj.CopyComplete
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.dll
+C:\Users\Sea\source\repos\1007FormB\1007FormB\obj\Debug\1007FormB.pdb
